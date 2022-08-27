@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@400;700&family=Fira+Code:wght@400;500;600&family=Kalam:wght@300;400;700&family=Noto+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Nunito:ital,wght@0,400;0,500;1,400&family=Open+Sans:ital,wght@0,400;0,500;1,300;1,400&family=Patrick+Hand&family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Roboto:ital,wght@0,100;0,400;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: .02rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bgColor {
+    background: #FBF9F4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.menu a,
+.primary_font {
+    font-family: 'Roboto', sans-serif;
+
+    font-size: 20px;
+}
+
+p {
+    color: rgb(151, 150, 150);
+    font-weight: 400;
+}
+
+.container {
+    max-width: 1140px;
+}
